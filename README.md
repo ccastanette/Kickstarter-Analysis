@@ -13,6 +13,8 @@ After separating the results into successful, failed, and canceled categories an
 ![1](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
+Here are the results from when we analysed the outcome of the kickstarter based on their goal:
+![1](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
