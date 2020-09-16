@@ -9,8 +9,8 @@ The purpose of this project is to evaluate how different campaigns fared in rela
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-
-![After separating the results into successful, failed, and canceled categories and graphing the total number based on month here are our results](Resources/Theater_Outcomes_vs_Launch.png) 
+After separating the results into successful, failed, and canceled categories and graphing the total number based on month here are our results:
+Resources/Theater_Outcomes_vs_Launch.png
 
 ### Analysis of Outcomes Based on Goals
 
