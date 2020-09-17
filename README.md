@@ -19,7 +19,8 @@ Here are the results from when we analysed the outcome of the theater Kickstarte
 
 In order to analyse the data based on goals we had to do some further excel manipulation. First we had to separate the goals into ranges that would allow us to look at segments of the data. The ranges we chose were less that $1000, $1000 - $4999, then $5000 segments until everything over $50000 was grouped together. At this point we were able to use the countifs() formula in excel to allow us to break down that data based on the outcome of the campaign and the subcategory plays, again because this information would be most useful to Ann. For example theformula that allowed us to get the counts of successful campaigns with a goal of $1000 - $4999 for the category of plays is:
 >=COUNTIFS(Kickstarter!$D:$D, ">=1000", Kickstarter!$F:$F, "successful", Kickstarter!$R:$R, "plays", Kickstarter!$D:$D, "<=4999", Kickstarter!$F:$F, "successful", Kickstarter!$R:$R, "plays")
-That format can be altered to count different data ass need for all of our ranges. 
+
+That format can be altered to count different data as need for all of our ranges. 
 
 Here are the results from when we analysed the outcome of the kickstarter based on their goal:
 ![1](Resources/Outcomes_vs_Goals.png)
